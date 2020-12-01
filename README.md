@@ -41,3 +41,6 @@ Python gives you numerous reasons to pick it up for your next Competitive Progra
 * [GeeksforGeeks](www.geekforgeeks.org)
 * [TopCoder](www.topcoder.com)
 * [Project Euler](www.projecteuler.net)
+
+### To do's
+_will be updated after the first session_
