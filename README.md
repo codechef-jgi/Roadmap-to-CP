@@ -35,12 +35,12 @@ Python gives you numerous reasons to pick it up for your next Competitive Progra
 * [Learn C++](https://qr.ae/pNKMy4)
 
 ### Platforms to practice
-* [CodeChef](www.codechef.com)
-* [CodeForces](www.codeforces.com)
-* [HackerRank](www.hackerrank.com)
-* [GeeksforGeeks](www.geekforgeeks.org)
-* [TopCoder](www.topcoder.com)
-* [Project Euler](www.projecteuler.net)
+* [CodeChef](https://www.codechef.com)
+* [CodeForces](https://www.codeforces.com)
+* [HackerRank](https://www.hackerrank.com)
+* [GeeksforGeeks](https://www.geekforgeeks.org)
+* [TopCoder](https://www.topcoder.com/)
+* [Project Euler](https://www.projecteuler.net/)
 
 ### To do's
 _will be updated after the first session_
